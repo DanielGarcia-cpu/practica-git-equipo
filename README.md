@@ -1,4 +1,6 @@
 # practica-git-equipo
 
 
-Alumnos Morones Martinez Victor Andre
+Alumnos 
+Morones Martinez Victor Andre
+Garcia Estrada Carlos Daniel
